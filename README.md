@@ -104,3 +104,7 @@ void PrintArray(string[] array)
     Console.Write("] ");
 }
 ```
+
+Результат вывода в терминал:
+
+> ![results in terminal](result.png)
