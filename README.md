@@ -30,7 +30,7 @@
 > ![Block-diagram](Block_diagram.drawio.png)
 
 3. Вы читаете данный фаил `README.md`
-4. Программа находится в ветке [`master`](\FinalTask\Program.cs  "Открыть решение")
+4. Программа находится в ветке [`main`](FinalTask/Program.cs "Открыть решение")
 
 Код программы:
 ```cs
